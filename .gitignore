@@ -1,0 +1,10 @@
+
+bin/
+bin-debug/
+bin-release/
+
+build/
+
+out/
+obj/
+.settings/
